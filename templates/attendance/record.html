@@ -1,0 +1,19 @@
+{% extends 'base/base.html' %}
+{% block title %}Record Attendance{% endblock %}
+{% block content %}
+<div class="card" style="max-width:640px;margin:auto;">
+  <h2>Record Attendance</h2>
+  <form method="post">{% csrf_token %}
+    <label>Member</label>
+    <select class="select" name="member_id">
+      {% for m in members %}
+        <option value="{{ m.id }}">{{ m.name }}</option>
+      {% endfor %}
+    </select>
+    <label>Date</label><input class="input" type="date" name="date" required>
+    <label>Check-in</label><input class="input" type="time" name="check_in" required>
+    <label>Check-out</label><input class="input" type="time" name="check_out">
+    <button class="btn" type="submit">Save</button>
+  </form>
+</div>
+{% endblock %}

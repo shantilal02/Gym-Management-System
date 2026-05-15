@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Mayur",
+    "email": "mayurshahajishinde1515@gmail.com",
+    "password": "c1735fcc65f1e014986acd4d607c20ff4caa6cdfa11270e8b791d0f224970df1",
+    "role": "ADMIN"
+  },
+  {
+    "id": 2,
+    "name": "shantilal yajgar",
+    "email": "shantilal@gmail.com",
+    "password": "aaf696dfb23bda5f6bd49c443b389c5ed35c75053c10e84913e5b1fdad95539b",
+    "role": "MEMBER"
+  },
+  {
+    "id": 3,
+    "name": "Shantilal Sunil Yajgar",
+    "email": "shantilalyajgar@gmail.com",
+    "password": "c1fc029651198b19876e2a8520bb93f40a88a913bc28827af4c29a91b22f7ecc",
+    "role": "ADMIN"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "title": "Cardio",
+    "trainer": "Prutviraj Sir",
+    "capacity": 20,
+    "schedule": {
+      "date": "2026-05-04",
+      "start": "06:00",
+      "end": "07:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 2,
+    "title": "Bodybulding",
+    "trainer": "Rushikesh Meher",
+    "capacity": 24,
+    "schedule": {
+      "date": "2025-09-06",
+      "start": "04:00",
+      "end": "05:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 3,
+    "title": "Weight Lifting",
+    "trainer": "No",
+    "capacity": 12,
+    "schedule": {
+      "date": "22026-09-05",
+      "start": "08:00",
+      "end": "09:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 4,
+    "title": "Aerobics",
+    "trainer": "Aman",
+    "capacity": 6,
+    "schedule": {
+      "date": "2026-05-07",
+      "start": "04:00",
+      "end": "06:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 5,
+    "title": "Basic Yoga",
+    "trainer": "NO",
+    "capacity": 15,
+    "schedule": {
+      "date": "2026-06-12",
+      "start": "07:00",
+      "end": "09:05"
+    },
+    "attendees": []
+  },
+  {
+    "id": 6,
+    "title": "Meditation",
+    "trainer": "Ganesh",
+    "capacity": 30,
+    "schedule": {
+      "date": "2025-02-20",
+      "start": "07:00",
+      "end": "10:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 7,
+    "title": "Flexibility training",
+    "trainer": "NO",
+    "capacity": 10,
+    "schedule": {
+      "date": "2026-12-08",
+      "start": "06:00",
+      "end": "09:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 8,
+    "title": "Dance Training",
+    "trainer": "Shursti",
+    "capacity": 15,
+    "schedule": {
+      "date": "2025-03-09",
+      "start": "08:00",
+      "end": "10:30"
+    },
+    "attendees": []
+  },
+  {
+    "id": 9,
+    "title": "Kickboxing Training",
+    "trainer": "Devid",
+    "capacity": 24,
+    "schedule": {
+      "date": "2026-09-10",
+      "start": "04:00",
+      "end": "06:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 10,
+    "title": "Strength And Flexibility",
+    "trainer": "Danny",
+    "capacity": 25,
+    "schedule": {
+      "date": "0025-12-31",
+      "start": "05:00",
+      "end": "06:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 11,
+    "title": "Pilates Class",
+    "trainer": "Ram",
+    "capacity": 20,
+    "schedule": {
+      "date": "2026-05-13",
+      "start": "03:00",
+      "end": "05:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 12,
+    "title": "Core Workout",
+    "trainer": "Manish",
+    "capacity": 30,
+    "schedule": {
+      "date": "2026-02-05",
+      "start": "05:00",
+      "end": "07:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 13,
+    "title": "Functional Training",
+    "trainer": "Sham",
+    "capacity": 20,
+    "schedule": {
+      "date": "2026-03-12",
+      "start": "06:00",
+      "end": "08:00"
+    },
+    "attendees": []
+  },  {
+    "id": 14,
+    "title": "HIIT Training",
+    "trainer": "Rahul",
+    "capacity": 20,
+    "schedule": {
+      "date": "2026-04-10",
+      "start": "06:00",
+      "end": "07:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 15,
+    "title": "Power Yoga",
+    "trainer": "Anita",
+    "capacity": 18,
+    "schedule": {
+      "date": "2026-04-11",
+      "start": "07:00",
+      "end": "08:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 16,
+    "title": "CrossFit",
+    "trainer": "Aman",
+    "capacity": 15,
+    "schedule": {
+      "date": "2026-04-12",
+      "start": "05:00",
+      "end": "06:30"
+    },
+    "attendees": []
+  },
+  {
+    "id": 17,
+    "title": "Zumba",
+    "trainer": "Priya",
+    "capacity": 25,
+    "schedule": {
+      "date": "2026-04-13",
+      "start": "06:30",
+      "end": "07:30"
+    },
+    "attendees": []
+  },
+  {
+    "id": 18,
+    "title": "Strength Training",
+    "trainer": "Rohit",
+    "capacity": 20,
+    "schedule": {
+      "date": "2026-04-14",
+      "start": "08:00",
+      "end": "09:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 19,
+    "title": "Abs Workout",
+    "trainer": "Sagar",
+    "capacity": 18,
+    "schedule": {
+      "date": "2026-04-15",
+      "start": "05:30",
+      "end": "06:30"
+    },
+    "attendees": []
+  },
+  {
+    "id": 20,
+    "title": "Boxing Training",
+    "trainer": "Karan",
+    "capacity": 16,
+    "schedule": {
+      "date": "2026-04-16",
+      "start": "07:00",
+      "end": "08:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 21,
+    "title": "Cycling Class",
+    "trainer": "Nikhil",
+    "capacity": 22,
+    "schedule": {
+      "date": "2026-04-17",
+      "start": "06:00",
+      "end": "07:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 22,
+    "title": "Stretching",
+    "trainer": "Meena",
+    "capacity": 20,
+    "schedule": {
+      "date": "2026-04-18",
+      "start": "08:00",
+      "end": "09:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 23,
+    "title": "Advanced Yoga",
+    "trainer": "Ravi",
+    "capacity": 15,
+    "schedule": {
+      "date": "2026-04-19",
+      "start": "07:00",
+      "end": "08:30"
+    },
+    "attendees": []
+  },
+  {
+    "id": 24,
+    "title": "Full Body Workout",
+    "trainer": "Suresh",
+    "capacity": 20,
+    "schedule": {
+      "date": "2026-04-20",
+      "start": "05:00",
+      "end": "06:30"
+    },
+    "attendees": []
+  },
+  {
+    "id": 25,
+    "title": "Boot Camp",
+    "trainer": "Ajay",
+    "capacity": 18,
+    "schedule": {
+      "date": "2026-04-21",
+      "start": "06:00",
+      "end": "07:30"
+    },
+    "attendees": []
+  },
+  {
+    "id": 26,
+    "title": "Endurance Training",
+    "trainer": "Deepak",
+    "capacity": 20,
+    "schedule": {
+      "date": "2026-04-22",
+      "start": "07:30",
+      "end": "08:30"
+    },
+    "attendees": []
+  },
+  {
+    "id": 27,
+    "title": "Balance Training",
+    "trainer": "Pooja",
+    "capacity": 15,
+    "schedule": {
+      "date": "2026-04-23",
+      "start": "06:00",
+      "end": "07:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 28,
+    "title": "Morning Cardio",
+    "trainer": "Vikas",
+    "capacity": 25,
+    "schedule": {
+      "date": "2026-04-24",
+      "start": "05:30",
+      "end": "06:30"
+    },
+    "attendees": []
+  },
+  {
+    "id": 29,
+    "title": "Evening Cardio",
+    "trainer": "Sanjay",
+    "capacity": 25,
+    "schedule": {
+      "date": "2026-04-25",
+      "start": "18:00",
+      "end": "19:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 30,
+    "title": "Muscle Gain Training",
+    "trainer": "Arjun",
+    "capacity": 20,
+    "schedule": {
+      "date": "2026-04-26",
+      "start": "07:00",
+      "end": "08:30"
+    },
+    "attendees": []
+  },
+  {
+    "id": 31,
+    "title": "Weight Loss Program",
+    "trainer": "Sneha",
+    "capacity": 20,
+    "schedule": {
+      "date": "2026-04-27",
+      "start": "06:30",
+      "end": "07:30"
+    },
+    "attendees": []
+  },
+  {
+    "id": 32,
+    "title": "Upper Body Workout",
+    "trainer": "Rahul",
+    "capacity": 18,
+    "schedule": {
+      "date": "2026-04-28",
+      "start": "05:30",
+      "end": "06:30"
+    },
+    "attendees": []
+  },
+  {
+    "id": 33,
+    "title": "Lower Body Workout",
+    "trainer": "Kunal",
+    "capacity": 18,
+    "schedule": {
+      "date": "2026-04-29",
+      "start": "07:00",
+      "end": "08:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 34,
+    "title": "Spinning Class",
+    "trainer": "Anil",
+    "capacity": 20,
+    "schedule": {
+      "date": "2026-04-30",
+      "start": "06:00",
+      "end": "07:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 35,
+    "title": "Core Strength",
+    "trainer": "Manish",
+    "capacity": 20,
+    "schedule": {
+      "date": "2026-05-01",
+      "start": "05:30",
+      "end": "06:30"
+    },
+    "attendees": []
+  },
+  {
+    "id": 36,
+    "title": "Power Lifting",
+    "trainer": "Rohit",
+    "capacity": 12,
+    "schedule": {
+      "date": "2026-05-02",
+      "start": "07:00",
+      "end": "09:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 37,
+    "title": "Aerobic Dance",
+    "trainer": "Priya",
+    "capacity": 22,
+    "schedule": {
+      "date": "2026-05-03",
+      "start": "06:00",
+      "end": "07:30"
+    },
+    "attendees": []
+  },
+  {
+    "id": 38,
+    "title": "Morning Yoga",
+    "trainer": "Anita",
+    "capacity": 20,
+    "schedule": {
+      "date": "2026-05-04",
+      "start": "06:00",
+      "end": "07:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 39,
+    "title": "Evening Yoga",
+    "trainer": "Anita",
+    "capacity": 20,
+    "schedule": {
+      "date": "2026-05-05",
+      "start": "18:00",
+      "end": "19:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 40,
+    "title": "Stretch & Relax",
+    "trainer": "Meena",
+    "capacity": 15,
+    "schedule": {
+      "date": "2026-05-06",
+      "start": "07:00",
+      "end": "08:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 41,
+    "title": "Strength Builder",
+    "trainer": "Karan",
+    "capacity": 20,
+    "schedule": {
+      "date": "2026-05-07",
+      "start": "05:30",
+      "end": "06:30"
+    },
+    "attendees": []
+  },
+  {
+    "id": 42,
+    "title": "Athletic Training",
+    "trainer": "Ravi",
+    "capacity": 18,
+    "schedule": {
+      "date": "2026-05-08",
+      "start": "06:00",
+      "end": "07:30"
+    },
+    "attendees": []
+  },
+  {
+    "id": 43,
+    "title": "Body Sculpt",
+    "trainer": "Sneha",
+    "capacity": 20,
+    "schedule": {
+      "date": "2026-05-09",
+      "start": "07:00",
+      "end": "08:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 44,
+    "title": "Power Cardio",
+    "trainer": "Sagar",
+    "capacity": 20,
+    "schedule": {
+      "date": "2026-05-10",
+      "start": "06:00",
+      "end": "07:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 45,
+    "title": "Gymnastics Basics",
+    "trainer": "Arjun",
+    "capacity": 15,
+    "schedule": {
+      "date": "2026-05-11",
+      "start": "05:30",
+      "end": "06:30"
+    },
+    "attendees": []
+  },
+  {
+    "id": 46,
+    "title": "Body Conditioning",
+    "trainer": "Rahul",
+    "capacity": 20,
+    "schedule": {
+      "date": "2026-05-12",
+      "start": "07:00",
+      "end": "08:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 47,
+    "title": "Muscle Recovery",
+    "trainer": "Anil",
+    "capacity": 18,
+    "schedule": {
+      "date": "2026-05-13",
+      "start": "08:00",
+      "end": "09:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 48,
+    "title": "Advanced Cardio",
+    "trainer": "Deepak",
+    "capacity": 20,
+    "schedule": {
+      "date": "2026-05-14",
+      "start": "06:00",
+      "end": "07:30"
+    },
+    "attendees": []
+  },
+  {
+    "id": 49,
+    "title": "Functional Fitness",
+    "trainer": "Manish",
+    "capacity": 20,
+    "schedule": {
+      "date": "2026-05-15",
+      "start": "07:00",
+      "end": "08:00"
+    },
+    "attendees": []
+  },
+  {
+    "id": 50,
+    "title": "Total Body Workout",
+    "trainer": "Rohit",
+    "capacity": 20,
+    "schedule": {
+      "date": "2026-05-16",
+      "start": "06:00",
+      "end": "07:30"
+    },
+    "attendees": []
+  }
+
+]

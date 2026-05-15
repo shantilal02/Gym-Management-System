@@ -1,0 +1,16 @@
+{% extends 'base/base.html' %}
+{% block title %}Create Class{% endblock %}
+{% block content %}
+<div class="card" style="max-width:720px;margin:auto;">
+  <h2>Create Class</h2>
+  <form method="post">{% csrf_token %}
+    <label>Title</label><input class="input" name="title" required>
+    <label>Trainer</label><input class="input" name="trainer" required>
+    <label>Capacity</label><input class="input" name="capacity" type="number" value="20" required>
+    <label>Date</label><input class="input" name="date" type="date" required>
+    <label>Start</label><input class="input" name="start" type="time" required>
+    <label>End</label><input class="input" name="end" type="time" required>
+    <button class="btn" type="submit">Create</button>
+  </form>
+</div>
+{% endblock %}

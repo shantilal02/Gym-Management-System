@@ -1,0 +1,17 @@
+{% extends 'base/base.html' %}
+{% block title %}Enroll{% endblock %}
+{% block content %}
+<div class="card" style="max-width:640px;margin:auto;">
+  <h2>Enroll in {{ c.title }}</h2>
+  <form method="post">{% csrf_token %}
+    <label>Member</label>
+    <select class="select" name="member_id">
+      {% for m in members %}
+        <option value="{{ m.id }}">{{ m.name }} ({{ m.membership.plan }})</option>
+      {% endfor %}
+    </select>
+    <button class="btn" type="submit">Enroll</button>
+  </form>
+  <p>Current attendees: {{ c.attendees|length }} / {{ c.capacity }}</p>
+</div>
+{% endblock %}

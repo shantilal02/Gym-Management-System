@@ -1,0 +1,995 @@
+[
+  {
+    "id": 1,
+    "name": "shantilal yajgar",
+    "age": 20,
+    "membership": {
+      "plan": "Muscle Build",
+      "price": 600.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 2,
+    "name": "Akash TIgadi",
+    "age": 19,
+    "membership": {
+      "plan": "Muscle Build",
+      "price": 500.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 3,
+    "name": "Shivraj Shinde",
+    "age": 21,
+    "membership": {
+      "plan": "Muscle Build",
+      "price": 300.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 4,
+    "name": "Prasad keche",
+    "age": 21,
+    "membership": {
+      "plan": "build body and musal gain",
+      "price": 514.0,
+      "duration_days": 38
+    }
+  },
+  {
+    "id": 7,
+    "name": "Aditya Nagane",
+    "age": 44,
+    "membership": {
+      "plan": "Muscle Build",
+      "price": 500.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 8,
+    "name": "Rushikesh Meher",
+    "age": 22,
+    "membership": {
+      "plan": "Weight Loss",
+      "price": 560.0,
+      "duration_days": 40
+    }
+  },
+  {
+    "id": 9,
+    "name": "Ganesh Parande",
+    "age": 25,
+    "membership": {
+      "plan": "Weight Gain",
+      "price": 524.0,
+      "duration_days": 25
+    }
+  },
+  {
+    "id": 10,
+    "name": "Ashish Mane Deshmukh",
+    "age": 22,
+    "membership": {
+      "plan": "Weight Gain",
+      "price": 500.0,
+      "duration_days": 60
+    }
+  },
+  {
+    "id": 11,
+    "name": "Purtiviraj Kodag",
+    "age": 21,
+    "membership": {
+      "plan": "Muscle Increase",
+      "price": 700.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 12,
+    "name": "Manav Kshirsagar",
+    "age": 26,
+    "membership": {
+      "plan": "Weight Gain",
+      "price": 745.0,
+      "duration_days": 38
+    }
+  },
+  {
+    "id": 13,
+    "name": "Bhavesh Magar",
+    "age": 23,
+    "membership": {
+      "plan": "Basic Cardio",
+      "price": 500.0,
+      "duration_days": 36
+    }
+  },
+  {
+    "id": 14,
+    "name": "Adinath Parande",
+    "age": 35,
+    "membership": {
+      "plan": "Fat-Burning",
+      "price": 450.0,
+      "duration_days": 45
+    }
+  },
+  {
+    "id": 15,
+    "name": "Ram Pisal",
+    "age": 45,
+    "membership": {
+      "plan": "Protein Based Diet",
+      "price": 500.0,
+      "duration_days": 30
+    }
+  },
+    {
+    "id": 16,
+    "name": "Rohit Patil",
+    "age": 22,
+    "membership": {
+      "plan": "Weight Gain",
+      "price": 550.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 17,
+    "name": "Sagar Pawar",
+    "age": 24,
+    "membership": {
+      "plan": "Fat Loss",
+      "price": 480.0,
+      "duration_days": 45
+    }
+  },
+  {
+    "id": 18,
+    "name": "Nikhil Shinde",
+    "age": 20,
+    "membership": {
+      "plan": "Weight Loss",
+      "price": 520.0,
+      "duration_days": 35
+    }
+  },
+  {
+    "id": 19,
+    "name": "Amit Bhosale",
+    "age": 29,
+    "membership": {
+      "plan": "Weight Gain",
+      "price": 580.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 20,
+    "name": "Tejas Patil",
+    "age": 23,
+    "membership": {
+      "plan": "Basic Cardio",
+      "price": 450.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 21,
+    "name": "Kiran Mane",
+    "age": 31,
+    "membership": {
+      "plan": "Fat Burning",
+      "price": 600.0,
+      "duration_days": 40
+    }
+  },
+  {
+    "id": 22,
+    "name": "Omkar Pawar",
+    "age": 22,
+    "membership": {
+      "plan": "Muscle Build",
+      "price": 650.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 23,
+    "name": "Rahul Koli",
+    "age": 28,
+    "membership": {
+      "plan": "Weight Gain",
+      "price": 500.0,
+      "duration_days": 45
+    }
+  },
+  {
+    "id": 24,
+    "name": "Yash Kadam",
+    "age": 19,
+    "membership": {
+      "plan": "Muscle Increase",
+      "price": 700.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 25,
+    "name": "Mahesh Jagtap",
+    "age": 33,
+    "membership": {
+      "plan": "Fat Loss",
+      "price": 550.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 26,
+    "name": "Rohan Kulkarni",
+    "age": 24,
+    "membership": {
+      "plan": "Basic Cardio",
+      "price": 480.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 27,
+    "name": "Abhishek More",
+    "age": 26,
+    "membership": {
+      "plan": "Weight Gain",
+      "price": 600.0,
+      "duration_days": 35
+    }
+  },
+  {
+    "id": 28,
+    "name": "Shubham Patil",
+    "age": 21,
+    "membership": {
+      "plan": "Muscle Build",
+      "price": 650.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 29,
+    "name": "Sanket Jadhav",
+    "age": 27,
+    "membership": {
+      "plan": "Fat Burning",
+      "price": 520.0,
+      "duration_days": 45
+    }
+  },
+  {
+    "id": 30,
+    "name": "Vishal Shinde",
+    "age": 30,
+    "membership": {
+      "plan": "Weight Loss",
+      "price": 540.0,
+      "duration_days": 40
+    }
+  },
+    {
+    "id": 31,
+    "name": "Pavan Pawar",
+    "age": 22,
+    "membership": {
+      "plan": "Muscle Build",
+      "price": 600.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 32,
+    "name": "Ruturaj Patil",
+    "age": 23,
+    "membership": {
+      "plan": "Weight Gain",
+      "price": 580.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 33,
+    "name": "Ajinkya Jadhav",
+    "age": 29,
+    "membership": {
+      "plan": "Muscle Increase",
+      "price": 720.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 34,
+    "name": "Amol Kharat",
+    "age": 34,
+    "membership": {
+      "plan": "Fat Loss",
+      "price": 500.0,
+      "duration_days": 45
+    }
+  },
+  {
+    "id": 35,
+    "name": "Santosh More",
+    "age": 38,
+    "membership": {
+      "plan": "Basic Cardio",
+      "price": 450.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 36,
+    "name": "Aniket Patil",
+    "age": 25,
+    "membership": {
+      "plan": "Weight Gain",
+      "price": 600.0,
+      "duration_days": 35
+    }
+  },
+  {
+    "id": 37,
+    "name": "Swapnil Shinde",
+    "age": 24,
+    "membership": {
+      "plan": "Muscle Build",
+      "price": 650.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 38,
+    "name": "Kunal Pawar",
+    "age": 21,
+    "membership": {
+      "plan": "Fat Burning",
+      "price": 520.0,
+      "duration_days": 40
+    }
+  },
+  {
+    "id": 39,
+    "name": "Deepak Mane",
+    "age": 32,
+    "membership": {
+      "plan": "Weight Loss",
+      "price": 550.0,
+      "duration_days": 45
+    }
+  },
+  {
+    "id": 40,
+    "name": "Nitin Patil",
+    "age": 28,
+    "membership": {
+      "plan": "Muscle Increase",
+      "price": 700.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 41,
+    "name": "Sameer Jadhav",
+    "age": 23,
+    "membership": {
+      "plan": "Basic Cardio",
+      "price": 450.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 42,
+    "name": "Tushar Pawar",
+    "age": 27,
+    "membership": {
+      "plan": "Weight Gain",
+      "price": 600.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 43,
+    "name": "Akshay Shinde",
+    "age": 22,
+    "membership": {
+      "plan": "Muscle Build",
+      "price": 650.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 44,
+    "name": "Pratik More",
+    "age": 26,
+    "membership": {
+      "plan": "Fat Loss",
+      "price": 520.0,
+      "duration_days": 45
+    }
+  },
+  {
+    "id": 45,
+    "name": "Harshal Patil",
+    "age": 20,
+    "membership": {
+      "plan": "Weight Gain",
+      "price": 580.0,
+      "duration_days": 35
+    }
+  },
+    {
+    "id": 45,
+    "name": "Harshal Patil",
+    "age": 20,
+    "membership": {
+      "plan": "Weight Gain",
+      "price": 580.0,
+      "duration_days": 35
+    }
+  },
+  {
+    "id": 46,
+    "name": "Ganesh Pawar",
+    "age": 31,
+    "membership": {
+      "plan": "Muscle Build",
+      "price": 650.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 47,
+    "name": "Saurabh Shinde",
+    "age": 24,
+    "membership": {
+      "plan": "Basic Cardio",
+      "price": 450.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 48,
+    "name": "Ramesh Patil",
+    "age": 40,
+    "membership": {
+      "plan": "Fat Burning",
+      "price": 500.0,
+      "duration_days": 45
+    }
+  },
+  {
+    "id": 49,
+    "name": "Dinesh Mane",
+    "age": 36,
+    "membership": {
+      "plan": "Weight Loss",
+      "price": 540.0,
+      "duration_days": 40
+    }
+  },
+  {
+    "id": 50,
+    "name": "Ketan Jadhav",
+    "age": 28,
+    "membership": {
+      "plan": "Muscle Increase",
+      "price": 720.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 51,
+    "name": "Vijay Pawar",
+    "age": 41,
+    "membership": {
+      "plan": "Protein Diet",
+      "price": 600.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 52,
+    "name": "Aakash Patil",
+    "age": 23,
+    "membership": {
+      "plan": "Muscle Build",
+      "price": 650.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 53,
+    "name": "Rohit Mane",
+    "age": 26,
+    "membership": {
+      "plan": "Weight Gain",
+      "price": 580.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 54,
+    "name": "Sumit Jadhav",
+    "age": 21,
+    "membership": {
+      "plan": "Basic Cardio",
+      "price": 450.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 55,
+    "name": "Nilesh Pawar",
+    "age": 35,
+    "membership": {
+      "plan": "Fat Loss",
+      "price": 520.0,
+      "duration_days": 45
+    }
+  },
+  {
+    "id": 56,
+    "name": "Akash Patil",
+    "age": 22,
+    "membership": {
+      "plan": "Muscle Build",
+      "price": 650.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 57,
+    "name": "Prakash More",
+    "age": 39,
+    "membership": {
+      "plan": "Weight Loss",
+      "price": 550.0,
+      "duration_days": 40
+    }
+  },
+  {
+    "id": 58,
+    "name": "Rakesh Shinde",
+    "age": 33,
+    "membership": {
+      "plan": "Fat Burning",
+      "price": 500.0,
+      "duration_days": 45
+    }
+  },
+  {
+    "id": 59,
+    "name": "Vivek Pawar",
+    "age": 24,
+    "membership": {
+      "plan": "Weight Gain",
+      "price": 600.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 60,
+    "name": "Arjun Patil",
+    "age": 20,
+    "membership": {
+      "plan": "Muscle Increase",
+      "price": 720.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 61,
+    "name": "Om Patil",
+    "age": 19,
+    "membership": {
+      "plan": "Basic Cardio",
+      "price": 450.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 62,
+    "name": "Aditya Jadhav",
+    "age": 22,
+    "membership": {
+      "plan": "Muscle Build",
+      "price": 650.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 63,
+    "name": "Yogesh Pawar",
+    "age": 30,
+    "membership": {
+      "plan": "Fat Loss",
+      "price": 520.0,
+      "duration_days": 45
+    }
+  },
+  {
+    "id": 64,
+    "name": "Sagar Shinde",
+    "age": 28,
+    "membership": {
+      "plan": "Weight Gain",
+      "price": 580.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 65,
+    "name": "Amit Patil",
+    "age": 34,
+    "membership": {
+      "plan": "Protein Diet",
+      "price": 600.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 66,
+    "name": "Nikhil Pawar",
+    "age": 23,
+    "membership": {
+      "plan": "Muscle Increase",
+      "price": 720.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 67,
+    "name": "Tejas Jadhav",
+    "age": 27,
+    "membership": {
+      "plan": "Weight Loss",
+      "price": 540.0,
+      "duration_days": 40
+    }
+  },
+  {
+    "id": 68,
+    "name": "Rohan Mane",
+    "age": 25,
+    "membership": {
+      "plan": "Fat Burning",
+      "price": 500.0,
+      "duration_days": 45
+    }
+  },
+  {
+    "id": 69,
+    "name": "Kiran Pawar",
+    "age": 31,
+    "membership": {
+      "plan": "Weight Gain",
+      "price": 580.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 70,
+    "name": "Sanket Patil",
+    "age": 24,
+    "membership": {
+      "plan": "Muscle Build",
+      "price": 650.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 71,
+    "name": "Vikas Shinde",
+    "age": 29,
+    "membership": {
+      "plan": "Basic Cardio",
+      "price": 450.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 72,
+    "name": "Anil Pawar",
+    "age": 42,
+    "membership": {
+      "plan": "Fat Loss",
+      "price": 520.0,
+      "duration_days": 45
+    }
+  },
+  {
+    "id": 73,
+    "name": "Mahesh Patil",
+    "age": 37,
+    "membership": {
+      "plan": "Weight Loss",
+      "price": 540.0,
+      "duration_days": 40
+    }
+  },
+  {
+    "id": 74,
+    "name": "Deepak Pawar",
+    "age": 33,
+    "membership": {
+      "plan": "Muscle Increase",
+      "price": 720.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 75,
+    "name": "Kunal Patil",
+    "age": 21,
+    "membership": {
+      "plan": "Weight Gain",
+      "price": 580.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 76,
+    "name": "Rahul Mane",
+    "age": 26,
+    "membership": {
+      "plan": "Muscle Build",
+      "price": 650.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 77,
+    "name": "Pratik Pawar",
+    "age": 24,
+    "membership": {
+      "plan": "Basic Cardio",
+      "price": 450.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 78,
+    "name": "Sandeep Patil",
+    "age": 38,
+    "membership": {
+      "plan": "Fat Burning",
+      "price": 500.0,
+      "duration_days": 45
+    }
+  },
+  {
+    "id": 79,
+    "name": "Harish Jadhav",
+    "age": 32,
+    "membership": {
+      "plan": "Weight Gain",
+      "price": 580.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 80,
+    "name": "Yash Pawar",
+    "age": 20,
+    "membership": {
+      "plan": "Muscle Increase",
+      "price": 720.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 81,
+    "name": "Amol Patil",
+    "age": 36,
+    "membership": {
+      "plan": "Protein Diet",
+      "price": 600.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 82,
+    "name": "Shubham Pawar",
+    "age": 23,
+    "membership": {
+      "plan": "Muscle Build",
+      "price": 650.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 83,
+    "name": "Ajay Patil",
+    "age": 40,
+    "membership": {
+      "plan": "Fat Loss",
+      "price": 520.0,
+      "duration_days": 45
+    }
+  },
+  {
+    "id": 84,
+    "name": "Ritesh Jadhav",
+    "age": 27,
+    "membership": {
+      "plan": "Weight Loss",
+      "price": 540.0,
+      "duration_days": 40
+    }
+  },
+  {
+    "id": 85,
+    "name": "Pankaj Pawar",
+    "age": 35,
+    "membership": {
+      "plan": "Weight Gain",
+      "price": 580.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 86,
+    "name": "Nitin Mane",
+    "age": 28,
+    "membership": {
+      "plan": "Muscle Increase",
+      "price": 720.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 87,
+    "name": "Sunil Patil",
+    "age": 41,
+    "membership": {
+      "plan": "Basic Cardio",
+      "price": 450.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 88,
+    "name": "Gaurav Pawar",
+    "age": 24,
+    "membership": {
+      "plan": "Muscle Build",
+      "price": 650.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 89,
+    "name": "Prasad Patil",
+    "age": 30,
+    "membership": {
+      "plan": "Fat Burning",
+      "price": 500.0,
+      "duration_days": 45
+    }
+  },
+  {
+    "id": 90,
+    "name": "Sachin Jadhav",
+    "age": 37,
+    "membership": {
+      "plan": "Weight Gain",
+      "price": 580.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 91,
+    "name": "Kishor Pawar",
+    "age": 43,
+    "membership": {
+      "plan": "Protein Diet",
+      "price": 600.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 92,
+    "name": "Akshay Patil",
+    "age": 22,
+    "membership": {
+      "plan": "Muscle Build",
+      "price": 650.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 93,
+    "name": "Shivam Pawar",
+    "age": 19,
+    "membership": {
+      "plan": "Weight Gain",
+      "price": 580.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 94,
+    "name": "Pranav Jadhav",
+    "age": 21,
+    "membership": {
+      "plan": "Muscle Increase",
+      "price": 720.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 95,
+    "name": "Rohit Pawar",
+    "age": 25,
+    "membership": {
+      "plan": "Basic Cardio",
+      "price": 450.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 96,
+    "name": "Aniket Jadhav",
+    "age": 29,
+    "membership": {
+      "plan": "Fat Loss",
+      "price": 520.0,
+      "duration_days": 45
+    }
+  },
+  {
+    "id": 97,
+    "name": "Mahesh Pawar",
+    "age": 34,
+    "membership": {
+      "plan": "Weight Loss",
+      "price": 540.0,
+      "duration_days": 40
+    }
+  },
+  {
+    "id": 98,
+    "name": "Vishal Patil",
+    "age": 31,
+    "membership": {
+      "plan": "Muscle Build",
+      "price": 650.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 99,
+    "name": "Sagar Patil",
+    "age": 27,
+    "membership": {
+      "plan": "Weight Gain",
+      "price": 580.0,
+      "duration_days": 30
+    }
+  },
+  {
+    "id": 100,
+    "name": "Omkar Jadhav",
+    "age": 23,
+    "membership": {
+      "plan": "Muscle Increase",
+      "price": 720.0,
+      "duration_days": 30
+    }
+  }
+
+
+
+]

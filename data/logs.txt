@@ -1,0 +1,124 @@
+REGISTER mayurshahajishinde1515@gmail.com as ADMIN
+LOGIN mayurshahajishinde1515@gmail.com
+LOGIN mayurshahajishinde1515@gmail.com
+LOGIN mayurshahajishinde1515@gmail.com
+MEMBER_CREATE shantilal yajgar plan=Muscle Build
+PAYMENT member=1 amount=600.0 method=CASH txn=TXN-1
+REGISTER shantilal@gmail.com as ADMIN
+LOGIN shantilal@gmail.com
+LOGIN mayurshahajishinde1515@gmail.com
+=== Gym Summary ===
+Members: 1
+Revenue: ₹600.0
+Attendance Records: 0
+===================
+REPORT_EXPORT
+LOGIN mayurshahajishinde1515@gmail.com
+LOGIN mayurshahajishinde1515@gmail.com
+MEMBER_CREATE akash plan=Muscle Build
+MEMBER_CREATE shivraj plan=Muscle Build
+CLASS_CREATE yoga trainer=myur sir
+CLASS_ENROLL class=1 member=1
+MEMBER_CREATE APPA  KECHE plan=build body and musal gain
+MEMBER_EDIT id=4
+LOGIN mayurshahajishinde1515@gmail.com
+LOGIN mayurshahajishinde1515@gmail.com
+MEMBER_CREATE saurabh sawant plan=build body and musal gain
+LOGIN mayurshahajishinde1515@gmail.com
+MEMBER_CREATE y plan=j
+LOGIN mayurshahajishinde1515@gmail.com
+LOGIN mayurshahajishinde1515@gmail.com
+LOGIN mayurshahajishinde1515@gmail.com
+MEMBER_CREATE aditi bhumika mansi plan=Muscle Build
+MEMBER_DELETE id=5
+MEMBER_EDIT id=7
+MEMBER_EDIT id=6
+MEMBER_CREATE olivia plan=build body and musal gain
+MEMBER_EDIT id=8
+LOGIN mayurshahajishinde1515@gmail.com
+MEMBER_DELETE id=8
+MEMBER_DELETE id=6
+MEMBER_EDIT id=4
+MEMBER_EDIT id=4
+MEMBER_EDIT id=7
+ATTENDANCE member=2 date=2025-07-07
+LOGIN mayurshahajishinde1515@gmail.com
+LOGIN mayurshahajishinde1515@gmail.com
+CLASS_CREATE zumba trainer=mayur shinde
+CLASS_DELETE id=1
+ATTENDANCE member=7 date=2026-05-04
+LOGIN mayurshahajishinde1515@gmail.com
+EQUIPMENT_ADD Treadmaili
+EQUIPMENT_ADD Exercise Bike
+EQUIPMENT_ADD Dumbbells
+EQUIPMENT_ADD Chest Press Machine
+EQUIPMENT_ADD Shoulder Press Machine
+EQUIPMENT_ADD Leg Extension Machine
+EQUIPMENT_ADD Lat Pulldown Machine
+EQUIPMENT_DELETE id=6
+EQUIPMENT_ADD Leg Press Machine
+EQUIPMENT_ADD Weight Plates
+EQUIPMENT_ADD Smith Machine
+LOGIN mayurshahajishinde1515@gmail.com
+MEMBER_CREATE Rushikesh Meher plan=Weight Loss
+MEMBER_CREATE Ganesh Parande plan=Weight Gain
+LOGIN mayurshahajishinde1515@gmail.com
+MEMBER_CREATE Ashish Mane Deshmukh plan=Weight Gain
+MEMBER_CREATE Purtiviraj Kodag plan=Muscle Increase
+MEMBER_CREATE Manav Kshirsagar plan=Weight Gain
+MEMBER_CREATE Bhavesh Magar plan=Basic Cardio
+MEMBER_CREATE Adinath Parande plan=Fat-Burning
+MEMBER_EDIT id=7
+MEMBER_EDIT id=10
+MEMBER_CREATE Ram Pisal plan=Protein Based Diet
+CLASS_DELETE id=2
+CLASS_CREATE Cardio trainer=Prutviraj Sir
+CLASS_CREATE Bodybulding trainer=Rushikesh Meher
+CLASS_CREATE Weight Lifting trainer=No
+CLASS_CREATE Aerobics trainer=Aman
+CLASS_CREATE Basic Yoga trainer=NO
+CLASS_CREATE Meditation trainer=Ganesh
+CLASS_CREATE Flexibility training trainer=NO
+CLASS_CREATE Dance Training trainer=Shursti
+CLASS_CREATE Kickboxing Training trainer=Devid
+CLASS_CREATE Strength And Flexibility trainer=Danny
+CLASS_CREATE Pilates Class trainer=Ram
+CLASS_CREATE Core Workout trainer=Manish
+CLASS_CREATE Functional Training trainer=Sham
+ATTENDANCE member=1 date=2026-06-05
+ATTENDANCE member=3 date=2024-06-23
+MEMBER_EDIT id=3
+MEMBER_EDIT id=3
+MEMBER_EDIT id=2
+MEMBER_EDIT id=4
+ATTENDANCE member=4 date=2026-06-05
+ATTENDANCE member=7 date=2023-05-04
+ATTENDANCE member=8 date=2024-05-04
+ATTENDANCE member=9 date=2023-02-12
+ATTENDANCE member=10 date=2024-05-04
+ATTENDANCE member=11 date=2022-05-12
+ATTENDANCE member=12 date=2026-12-05
+ATTENDANCE member=13 date=2024-07-08
+ATTENDANCE member=14 date=2024-09-08
+ATTENDANCE member=15 date=2023-12-12
+MEMBER_EDIT id=7
+PAYMENT member=2 amount=500.0 method=CARD txn=TXN-2
+PAYMENT member=3 amount=300.0 method=CASH txn=TXN-3
+PAYMENT member=4 amount=514.0 method=CASH txn=TXN-4
+PAYMENT member=7 amount=500.0 method=UPI txn=TXN-5
+PAYMENT member=8 amount=560.0 method=CASH txn=TXN-6
+PAYMENT member=9 amount=524.0 method=CASH txn=TXN-7
+PAYMENT member=10 amount=500.0 method=CARD txn=TXN-8
+PAYMENT member=11 amount=700.0 method=UPI txn=TXN-9
+PAYMENT member=12 amount=745.0 method=CARD txn=TXN-10
+PAYMENT member=13 amount=500.0 method=UPI txn=TXN-11
+PAYMENT member=14 amount=450.0 method=CASH txn=TXN-12
+PAYMENT member=15 amount=500.0 method=CASH txn=TXN-13
+EQUIPMENT_ADD Spin Bike
+EQUIPMENT_ADD Adjustable Bancj
+EQUIPMENT_ADD Trap Bar
+LOGIN mayurshahajishinde1515@gmail.com
+LOGIN mayurshahajishinde1515@gmail.com
+LOGIN mayurshahajishinde1515@gmail.com
+REGISTER shantilalyajgar@gmail.com as ADMIN
+LOGIN shantilalyajgar@gmail.com

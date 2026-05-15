@@ -1,0 +1,19 @@
+{% extends 'base/base.html' %}
+{% block title %}Add Equipment{% endblock %}
+{% block content %}
+<div class="card" style="max-width:640px;margin:auto;">
+  <h2>Add Equipment</h2>
+  <form method="post">{% csrf_token %}
+    <label>Name</label><input class="input" name="name" required>
+    <label>Category</label><input class="input" name="category">
+    <label>Quantity</label><input class="input" type="number" name="quantity" value="1" required>
+    <label>Status</label>
+    <select class="select" name="status">
+      <option>OK</option>
+      <option>MAINTENANCE</option>
+      <option>OUT_OF_ORDER</option>
+    </select>
+    <button class="btn" type="submit">Add</button>
+  </form>
+</div>
+{% endblock %}

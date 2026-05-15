@@ -1,0 +1,31 @@
+{% extends 'base/base.html' %}
+{% block title %}Members{% endblock %}
+{% block content %}
+<div class="card">
+  <div style="display:flex;justify-content:space-between;align-items:center">
+    <h2>Members</h2>
+    <a class="btn" href="/members/create/">Add Member</a>
+  </div>
+  <table>
+    <thead><tr><th>ID</th><th>Name</th><th>Age</th><th>Plan</th><th>Price</th><th>Duration</th><th>Actions</th></tr></thead>
+    <tbody>
+      {% for m in members %}
+      <tr>
+        <td>{{ m.id }}</td>
+        <td>{{ m.name }}</td>
+        <td>{{ m.age }}</td>
+        <td>{{ m.membership.plan }}</td>
+        <td>₹{{ m.membership.price }}</td>
+        <td>{{ m.membership.duration_days }} days</td>
+        <td>
+          <a class="btn" href="/members/{{ m.id }}/edit/">Edit</a>
+          <a class="btn secondary" href="/members/{{ m.id }}/delete/">Delete</a>
+        </td>
+      </tr>
+      {% empty %}
+      <tr><td colspan="7">No members yet</td></tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}

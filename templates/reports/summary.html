@@ -1,0 +1,13 @@
+{% extends 'base/base.html' %}
+{% block title %}Reports{% endblock %}
+{% block content %}
+<div class="card">
+  <h2>Summary</h2>
+  <div class="grid">
+    <div class="card"><strong>Members</strong><div style="font-size:24px">{{ data.total_members }}</div></div>
+    <div class="card"><strong>Revenue</strong><div style="font-size:24px">₹{{ data.total_revenue }}</div></div>
+    <div class="card"><strong>Attendance</strong><div style="font-size:24px">{{ data.attendance_count }}</div></div>
+  </div>
+  <a class="btn" href="/reports/export/">Export to TXT</a>
+</div>
+{% endblock %}

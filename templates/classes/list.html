@@ -1,0 +1,31 @@
+{% extends 'base/base.html' %}
+{% block title %}Classes{% endblock %}
+{% block content %}
+<div class="card">
+  <div style="display:flex;justify-content:space-between;align-items:center">
+    <h2>Classes</h2>
+    <a class="btn" href="/classes/create/">Create Class</a>
+  </div>
+  <table>
+    <thead><tr><th>ID</th><th>Title</th><th>Trainer</th><th>Capacity</th><th>Schedule</th><th>Attendees</th><th>Actions</th></tr></thead>
+    <tbody>
+      {% for c in classes %}
+      <tr>
+        <td>{{ c.id }}</td>
+        <td>{{ c.title }}</td>
+        <td>{{ c.trainer }}</td>
+        <td>{{ c.capacity }}</td>
+        <td>{{ c.schedule.date }} {{ c.schedule.start }} - {{ c.schedule.end }}</td>
+        <td>{{ c.attendees|length }}</td>
+        <td>
+          <a class="btn" href="/classes/{{ c.id }}/enroll/">Enroll</a>
+          <a class="btn secondary" href="/classes/{{ c.id }}/delete/">Delete</a>
+        </td>
+      </tr>
+      {% empty %}
+      <tr><td colspan="7">No classes yet</td></tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}

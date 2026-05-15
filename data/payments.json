@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "member_id": 1,
+    "amount": 600.0,
+    "method": "CASH",
+    "transaction_id": "TXN-1"
+  },
+  {
+    "id": 2,
+    "member_id": 2,
+    "amount": 500.0,
+    "method": "CARD",
+    "transaction_id": "TXN-2"
+  },
+  {
+    "id": 3,
+    "member_id": 3,
+    "amount": 300.0,
+    "method": "CASH",
+    "transaction_id": "TXN-3"
+  },
+  {
+    "id": 4,
+    "member_id": 4,
+    "amount": 514.0,
+    "method": "CASH",
+    "transaction_id": "TXN-4"
+  },
+  {
+    "id": 5,
+    "member_id": 7,
+    "amount": 500.0,
+    "method": "UPI",
+    "transaction_id": "TXN-5"
+  },
+  {
+    "id": 6,
+    "member_id": 8,
+    "amount": 560.0,
+    "method": "CASH",
+    "transaction_id": "TXN-6"
+  },
+  {
+    "id": 7,
+    "member_id": 9,
+    "amount": 524.0,
+    "method": "CASH",
+    "transaction_id": "TXN-7"
+  },
+  {
+    "id": 8,
+    "member_id": 10,
+    "amount": 500.0,
+    "method": "CARD",
+    "transaction_id": "TXN-8"
+  },
+  {
+    "id": 9,
+    "member_id": 11,
+    "amount": 700.0,
+    "method": "UPI",
+    "transaction_id": "TXN-9"
+  },
+  {
+    "id": 10,
+    "member_id": 12,
+    "amount": 745.0,
+    "method": "CARD",
+    "transaction_id": "TXN-10"
+  },
+  {
+    "id": 11,
+    "member_id": 13,
+    "amount": 500.0,
+    "method": "UPI",
+    "transaction_id": "TXN-11"
+  },
+  {
+    "id": 12,
+    "member_id": 14,
+    "amount": 450.0,
+    "method": "CASH",
+    "transaction_id": "TXN-12"
+  },
+  {
+    "id": 13,
+    "member_id": 15,
+    "amount": 500.0,
+    "method": "CASH",
+    "transaction_id": "TXN-13"
+  }
+]

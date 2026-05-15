@@ -1,0 +1,16 @@
+{% extends 'base/base.html' %}
+{% block title %}Login{% endblock %}
+{% block content %}
+<div class="card" style="max-width:480px;margin:auto;">
+  <h2>Login</h2>
+  <form method="post">{% csrf_token %}
+    <label>Email</label>
+    <input class="input" name="email" required>
+    <label>Password</label>
+    <input class="input" name="password" type="password" required>
+    <button class="btn" type="submit">Login</button>
+    <a class="btn secondary" href="/accounts/register/">Register</a>
+  </form>
+</div>
+{% endblock %}
+

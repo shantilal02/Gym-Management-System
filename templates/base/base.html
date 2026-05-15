@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>{% block title %}Gym Management{% endblock %}</title>
+    <link rel="stylesheet" href="/static/styles.css">
+  </head>
+  <body>
+    <header class="header">
+      <h1>Gym Management</h1>
+      {% if request.session.user %}
+      <nav>
+        <a href="/members/">Members</a>
+        <a href="/classes/">Classes</a>
+        <a href="/attendance/">Attendance</a>
+        <a href="/equipment/">Equipment</a>
+        <a href="/payments/">Payments</a>
+        <a href="/reports/">Reports</a>
+        <a href="/accounts/logout/">Logout ({{ request.session.user.name }} — {{ request.session.user.role }})</a>
+      </nav>
+      {% endif %}
+    </header>
+    <main class="container">
+      {% if messages %}
+        <ul class="messages">
+          {% for m in messages %}<li class="{{ m.tags }}">{{ m }}</li>{% endfor %}
+        </ul>
+      {% endif %}
+      {% block content %}{% endblock %}
+    </main>
+  </body>
+</html>

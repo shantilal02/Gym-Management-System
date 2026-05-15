@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Treadmaili",
+    "category": "Cardio",
+    "quantity": 4,
+    "status": "OK"
+  },
+  {
+    "id": 2,
+    "name": "Exercise Bike",
+    "category": "Cardio",
+    "quantity": 2,
+    "status": "OUT_OF_ORDER"
+  },
+  {
+    "id": 3,
+    "name": "Dumbbells",
+    "category": "Strength training ",
+    "quantity": 10,
+    "status": "OK"
+  },
+  {
+    "id": 4,
+    "name": "Chest Press Machine",
+    "category": "Strength training  and Big Chest",
+    "quantity": 4,
+    "status": "OK"
+  },
+  {
+    "id": 5,
+    "name": "Shoulder Press Machine",
+    "category": "Increase Shoulder Strength",
+    "quantity": 3,
+    "status": "OK"
+  },
+  {
+    "id": 7,
+    "name": "Lat Pulldown Machine",
+    "category": "Build Back Muscles",
+    "quantity": 4,
+    "status": "OK"
+  },
+  {
+    "id": 8,
+    "name": "Leg Press Machine",
+    "category": "Increase Leg Strength",
+    "quantity": 3,
+    "status": "OK"
+  },
+  {
+    "id": 9,
+    "name": "Weight Plates",
+    "category": "Help In Developing Muscle",
+    "quantity": 7,
+    "status": "OUT_OF_ORDER"
+  },
+  {
+    "id": 10,
+    "name": "Smith Machine",
+    "category": "Provides Safety",
+    "quantity": 4,
+    "status": "MAINTENANCE"
+  },
+  {
+    "id": 11,
+    "name": "Spin Bike",
+    "category": "Cardio",
+    "quantity": 5,
+    "status": "MAINTENANCE"
+  },
+  {
+    "id": 12,
+    "name": "Adjustable Bancj",
+    "category": "Chest Exercise",
+    "quantity": 5,
+    "status": "OK"
+  },
+  {
+    "id": 13,
+    "name": "Trap Bar",
+    "category": "Chest",
+    "quantity": 3,
+    "status": "OK"
+  }
+]
